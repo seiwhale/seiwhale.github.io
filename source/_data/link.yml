@@ -1,0 +1,32 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: 李世杰
+      link: https://lishij.github.io
+      avatar: http://placeimg.com/100/100/any/1
+      descr: 前端包工头，致力于前端更好的发展环境~
+    2:
+      name: Cola_J
+      link: https://lishij.netlify.com
+      avatar: http://placeimg.com/100/100/any/2
+      descr: 大道至简，知易行难，知行合一  
+    3:
+      name: LishiJ
+      link: https://lisj.ml
+      avatar: http://placeimg.com/100/100/any/3
+      descr: 酸葡萄让别人吃  
+
+# class2:
+#   class_name: 链接无效
+#   link_list:
+#     1:
+#       name: 梦xxx
+#       link: https://blog.xxx.com
+#       avatar: https://xxxx/avatar.png
+#       descr: xxxx
+#     2:
+#       name: xx
+#       link: https://www.axxxx.cn/
+#       avatar: https://x
+#       descr: xx
