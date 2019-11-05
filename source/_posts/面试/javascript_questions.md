@@ -7,7 +7,7 @@ categories:
   - 面试
 keywords: 'js,ES6,javascript'
 description: 从基础到进阶，测试你有多了解 JavaScript，刷新你的知识，或者帮助你的 coding 面试！
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/js.png
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/js.png
 ---
 
 # JavaScript 进阶问题列表 - 持续更新

@@ -7,7 +7,7 @@ categories:
   - 面试
 keywords: 'js,面试'
 description: 面试官：来手写一个xxx，然后再手写一个xxx <br /> 我：???
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/handwritten.jpeg
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/handwritten.jpeg
 ---
 
 > 面试官：来手写一个xxx，然后再手写一个xxx <br /> 我：???
@@ -561,7 +561,7 @@ let arr3 = arr.slice();
 
 ### 深拷贝
 
-### JSON.parse()
+#### JSON.parse()
 
 ``` js
 let arr = [1, 3, {
@@ -572,7 +572,7 @@ arr4[2].username = 'duncan';
 console.log(arr, arr4)
 ```
 
-### 递归
+#### 递归
 
 ``` js
 function deepClone(initalObj, finalObj) {    
@@ -597,7 +597,7 @@ deepClone(obj, str);
 console.log(str.a);
 ```
 
-### Object.create()
+#### Object.create()
 
 ``` js
 function deepClone(initalObj, finalObj) {    
@@ -637,4 +637,4 @@ function instanceOf(left, right) {
 
 ---
 
-如果需要上面的代码及 `demo` 的话，可以点击[这里](https://github.com/LishiJ/hand_written)获取。
+如果需要上面的代码及 `demo` 的话，可以点击[这里](https://github.com/seiwhale/hand_written)获取。

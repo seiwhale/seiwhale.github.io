@@ -3,16 +3,16 @@ class:
   link_list:
     1:
       name: 李世杰
-      link: https://lishij.github.io
+      link: https://seiwhale.github.io
       avatar: http://placeimg.com/100/100/any/1
       descr: 前端包工头，致力于前端更好的发展环境~
     2:
       name: Cola_J
-      link: https://lishij.netlify.com
+      link: https://seiwhale.netlify.com
       avatar: http://placeimg.com/100/100/any/2
       descr: 大道至简，知易行难，知行合一  
     3:
-      name: LishiJ
+      name: seiwhale
       link: https://lisj.ml
       avatar: http://placeimg.com/100/100/any/3
       descr: 酸葡萄让别人吃  

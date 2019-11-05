@@ -11,7 +11,7 @@ categories:
   - WIKI
 keywords: 'ES6,react,javascript,react-redux,redux,react,redux-saga'
 description: redux-saga就是一个用于管理redux应用的异步操作中间件，redux-saga通过创建sagas将所有异步操作的逻辑都收集在一个位置集中处理。
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/react_redux.png
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/react_redux.png
 ---
 
 ### 概述

@@ -7,7 +7,7 @@ categories:
   - 开发小技巧
 keywords: 'js,javascript,ES6'
 description: 本文主要介绍一些JS中用到的小技巧，可以在日常Coding中提升幸福度，将不定期更新~
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/js.png
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/js.png
 ---
 
 本文主要介绍一些JS中用到的小技巧，可以在日常Coding中提升幸福度，将不定期更新~

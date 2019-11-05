@@ -8,7 +8,7 @@ categories:
   - 技术随笔
 keywords: 'Html,component,javascript'
 description: Web Components是允许我们创建可重用的定制元素（即组件）的一种技术，可以在你喜欢的任何地方重用，不必担心代码冲突，本质就是组件化。由于web components是由w3c组织去推动的，因此它很有可能在不久的将来成为浏览器的一个标配。
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/web_components.jpg
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/web_components.jpg
 ---
 
 看到这个标题可能有的小伙伴想到的是`React` 、`Vue` 或者 `Angular` 的自定义组件，**no no no！**

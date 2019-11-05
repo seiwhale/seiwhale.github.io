@@ -9,7 +9,7 @@ categories:
   - WIKI
 keywords: 'ES6,react,javascript,react-redux,redux,react'
 description: Redux是JavaScript状态管理容器，提供可预测的状态管理。redux可以让你构建一致化的应用，运行于不同的环境（客户端、服务端、原生应用），且易于测试。
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/redux.png
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/redux.png
 ---
 
 > `Redux` 是 `JavaScript` 状态管理容器，提供可预测的状态管理。`redux` 可以让你构建一致化的应用，运行于不同的环境（客户端、服务端、原生应用），且易于测试。

@@ -6,12 +6,12 @@ categories:
   - 开发小技巧
 keywords: 'Vue,组件通信,javascript'
 description: Vue组件间通信都有什么方式呢？针对不同的使用场景，如何选择行之有效的通信方式？
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/vue_communication.png
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/vue_communication.png
 ---
 
 组件是 vue.js最强大的功能之一，而组件实例的作用域是相互独立的，这就意味着不同组件之间的数据无法相互引用。一般来说，组件可以有以下几种关系：
 
-![组件关系图](https://cdn.jsdelivr.net/gh/LishiJ/assets/img/vue/vue_communication_01.png)
+![组件关系图](https://cdn.jsdelivr.net/gh/seiwhale/assets/img/vue/vue_communication_01.png)
 
 
 如上图所示，A 和 B、B 和 C、B 和 D 都是父子关系，C 和 D 是兄弟关系，A 和 C 是隔代关系（可能隔多代）。
@@ -255,13 +255,13 @@ Event.$on(事件名, data = >{});
 监听了自定义事件 data-a 和 data-b，因为有时不确定何时会触发事件，一般会在 `mounted` 或 `created` 钩子中来监听。
 
 ## vuex
-![vuex](https://cdn.jsdelivr.net/gh/LishiJ/assets/img/vue/vuex_data-flow.png)
+![vuex](https://cdn.jsdelivr.net/gh/seiwhale/assets/img/vue/vuex_data-flow.png)
 
 ### vuex 原理
 
 `Vuex` 实现了一个单向数据流，在全局拥有一个 `State` 存放数据，当组件要更改 `State` 中的数据时，必须通过 `Mutation` 进行，`Mutation` 同时提供了订阅者模式供外部插件调用获取 `State` 数据的更新。而当所有异步操作(常见于调用后端接口异步获取更新数据)或批量的同步操作需要走 `Action`，但 `Action` 也是无法直接修改 `State` 的，还是需要通过 `Mutation` 来修改 `State` 的数据。最后，根据 `State` 的变化，渲染到视图上。
 
-具体的 `vuex` 介绍，查看[这里](https://lishij.github.io/2019/07/22/vuex/)获取更多详情。
+具体的 `vuex` 介绍，查看[这里](https://seiwhale.github.io/2019/07/22/vuex/)获取更多详情。
 
 ### 结合 localstorage
 
@@ -513,7 +513,7 @@ export default {
 
 我们来看个例子：孙组件 D、E 和 F 获取 A 组件传递过来的 color 值，并能实现数据响应式变化，即 A 组件的 color 变化后，组件 D、E、F 不会跟着变（核心代码如下：）
 
-![provider/inject](https://cdn.jsdelivr.net/gh/LishiJ/assets/img/vue/provide_inject.png)
+![provider/inject](https://cdn.jsdelivr.net/gh/seiwhale/assets/img/vue/provide_inject.png)
 
 ``` js
 // A 组件

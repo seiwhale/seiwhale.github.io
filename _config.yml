@@ -10,11 +10,11 @@ keywords: [Cola,ColaJ,blog,博客,前端,程序员,个人博客,前端开发,前
 author: 李世杰
 language: zh-CN
 timezone:
-repo: https://github.com/LishiJ/LishiJ.github.io
+repo: https://github.com/seiwhale/seiwhale.github.io
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://github.com/LishiJ/LishiJ.github.io
+url: https://github.com/seiwhale/seiwhale.github.io
 # url: http://shijieli.coding.me/blog
 root: /
 permalink: :year/:month/:day/:title/
@@ -83,7 +83,7 @@ deploy:
   type: git
   message: First commit
   branch: master
-  repo: git@github.com:LishiJ/blog_hexo.git
+  repo: git@github.com:seiwhale/blog_hexo.git
   extend_dirs: /
   ignore_hidden: false
   ignore_pattern:

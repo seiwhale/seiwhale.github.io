@@ -8,7 +8,7 @@ categories:
   - 技术随笔
 keywords: 'js,ES6,CICD,appveyor'
 description: You can use YAML validation tool (Settings → Validate YAML) to check the syntax and validate your appveyor.yml file.
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/appveyor.png
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/appveyor.png
 ---
 
 ``` yml

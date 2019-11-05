@@ -9,7 +9,7 @@ categories:
   - 技术随笔
 keywords: 'Vue,Vue3.0,javascript,Proxy'
 description: 在之前的 Vue2.x 版本中，由于 Object.defineProperty 的限制，所以 我们在使用中遇到了无法监听属性的添加和删除、数组索引和长度的变更等一系列问题，在最新的 Vue3.0中采用 Proxy 属性很好的解决了这一问题。而且支持 Map、Set、WeakMap 和 WeakSet！下面就让我们一起去看看吧~
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/vue3.0.jpg
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/vue3.0.jpg
 ---
 
 去年尤大大在 `VueConf TO 2018`  大会上发表了名为 `Vue3.0 Updates` 的主题演讲，对 `Vue3.0` 的更新计划、方向进行了详细阐述，表示已经放弃使用了 `Object.defineProperty`，而选择了使用更快的原生 `Proxy`。

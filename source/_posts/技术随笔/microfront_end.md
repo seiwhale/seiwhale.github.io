@@ -8,7 +8,7 @@ categories:
   - 技术随笔
 keywords: 'single-spa,javascript,ES6,微前端,saas'
 description: 将 Web 应用由单一的单体应用转变为多个小型前端应用聚合为一的应用，插拔式架构，SaaS产品定制化。
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/microfront_end.png
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/microfront_end.png
 ---
 
 > 将 `Web` 应用由单一的单体应用转变为多个小型前端应用聚合为一的应用。
@@ -117,7 +117,7 @@ http {
 
 现在比较流行的前端框架都是基于 `DOM` ，那么我们只需在适当的地方适时的将所需的 `DOM` 插入进来即可。现阶段比较成熟的框架是 `Single-SPA`，兼容大部分框架（如 `React`、`Angular`、`Vue` 等框架）。我么也可以根据自己的业务需要进行二次封装，比如针对 `Angular` 的 `Mooa` 和基于 `umi` 的 `qiankun`。
 
-这边附上 `Single-SPA` 的一个简单 `Demo`，还是比较简单的：[传送门]([https://github.com/LishiJ/single-spa_example](https://github.com/LishiJ/single-spa_example)
+这边附上 `Single-SPA` 的一个简单 `Demo`，还是比较简单的：[传送门]([https://github.com/seiwhale/single-spa_example](https://github.com/seiwhale/single-spa_example)
 )
 
 ### 组合式集成
@@ -134,7 +134,7 @@ http {
 
 ### 纯 Web Components
 
-不知道 `Web Components` 可以看下这篇文章：[Web Components](https://lishij.github.io/2019/08/06/web_components/)
+不知道 `Web Components` 可以看下这篇文章：[Web Components](https://seiwhale.github.io/2019/08/06/web_components/)
 
 每个组件通过 `link` 标签引入:
 

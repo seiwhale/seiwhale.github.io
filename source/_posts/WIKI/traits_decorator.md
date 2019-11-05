@@ -9,7 +9,7 @@ categories:
   - WIKI
 keywords: 'ES6,traits-decorator,javascript'
 description: 本文主要为基于Decorator的Mixin的实现，学习或使用过类（class）的同学们可能会遇到过这样一个问题：对象的继承问题，在一个对象中继承其他若干个对象的若干方法。
-cover: https://cdn.jsdelivr.net/gh/LishiJ/assets/img/es6.jpg
+cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/es6.jpg
 ---
 
 本文主要为基于 `Decorator` 的 `Mixin` 的实现，学习或使用过类（`class`）的同学们可能会遇到过这样一个问题：对象的继承问题，在一个对象中继承其他若干个对象的若干方法。`traits-decorator` 就是来解决这个问题的，一起去看看吧！
