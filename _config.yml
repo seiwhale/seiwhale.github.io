@@ -81,5 +81,5 @@ theme: Butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  branch: gh-pages
+  branch: master
   repo: git@github.com:seiwhale/seiwhale.github.io.git
