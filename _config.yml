@@ -6,7 +6,7 @@
 title: 大花的微博
 subtitle: 满是裂缝的花卷
 description: 
-keywords: [Cola,ColaJ,blog,博客,前端,程序员,个人博客,前端开发,前端博客,es6,web开发,H5,H5开发,JS,javascript,vue,react]
+keywords: [seiwhale,鲸落,blog,博客,前端,程序员,个人博客,前端开发,前端博客,es6,web开发,H5,H5开发,JS,javascript,vue,react]
 author: 李世杰
 language: zh-CN
 timezone:
@@ -81,10 +81,5 @@ theme: Butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  message: First commit
-  branch: master
-  repo: git@github.com:seiwhale/blog_hexo.git
-  extend_dirs: /
-  ignore_hidden: false
-  ignore_pattern:
-    public: .
+  branch: gh-pages
+  repo: git@github.com:seiwhale/seiwhale.github.io.git
