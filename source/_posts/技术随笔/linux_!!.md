@@ -1,12 +1,12 @@
 ---
-title: Linux 神奇的"!"命令
+title: Linux 神奇的 ! 命令
 date: 2020-3-31 17:15:43
 tags:
   - linux
 categories:
   - 技术随笔
 keywords: linux
-description: '!' 不起眼却非常神奇的 Linux 命令，让我们一起看看怎么使用吧！
+description: ! 不起眼却非常神奇的 Linux 命令，让我们一起看看怎么使用吧！
 cover: https://cdn.jsdelivr.net/gh/seiwhale/assets/img/blog/linux.jpg
 ---
 
