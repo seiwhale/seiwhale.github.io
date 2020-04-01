@@ -16,7 +16,7 @@ repo: https://github.com/seiwhale/seiwhale.github.io
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://github.com/seiwhale/seiwhale.github.io
 # url: http://shijieli.coding.me/blog
-root: /
+root: https://seiwhale.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
